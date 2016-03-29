@@ -35,3 +35,56 @@ body{
     color: rgba(175,175,175,0.95);
     -webkit-font-smoothing: antialiased;
 }
+.content{
+    background: #fff;
+    border: 1px solid #dcdcdc;
+    box-shadow: 0 2px 4px 0 #dcdcdc;
+    border-radius: 4px;
+    margin-top: 0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    width: 100%;
+    padding: 22px;
+    height: auto;
+}
+.signup{
+    padding-right: 32px;
+    border-right: 1px, solid, #e2e2e2;
+    float: left;
+    width: 50%;
+}
+.gmail{
+    background-color: #df4930;
+}
+.gmail .line-1 {
+    display: inline-block;
+  padding: 0.25em 0.25em 0 0.25em;
+  background-color: #021526;
+  font-family: 'Lora', serif;
+  font-size: 1.5em;
+  color:#df4930;
+    background-color: white;
+}
+google_button submit_button{
+    color: aliceblue;
+}
+a{
+    text-decoration: none;
+}
+.link{
+    color: antiquewhite;
+}
+.fb{
+    background-color: #4b4bd6;
+    margin: 14px;
+}
+.fb .line-2 {
+    display: inline-block;
+  padding: 0.25em 0.25em 0 0.25em;
+  background-color: #021526;
+  font-family: 'Lora', serif;
+  font-size: 1.5em;
+  color:#4b4bd6;
+    background-color: white;
+}
