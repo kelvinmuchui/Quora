@@ -1,0 +1,26 @@
+body{
+    
+    background-image: url(https://qsf.is.quoracdn.net/-images.home.logged_out_bg3.png4318c33ac15420e3.png)
+}
+.Homepage {
+    width: 650px;
+    height: 100%;
+    position: absolute;
+    top: 10%;
+    bottom: initial;
+    left: 0;
+    right: 0;
+    margin: auto;
+    overflow-y: hidden
+}
+.logo {
+    float: none;
+    margin: auto;
+    width: 160px;
+    height: 100px;
+    background-size: 160px 45px;
+    background-image: url(https://qsf.is.quoracdn.net/-images.logo.wordmark_default.svgf0fecd31dbaf49fa.svg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 56px;
+}
