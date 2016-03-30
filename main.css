@@ -46,7 +46,7 @@ body{
     box-sizing: border-box;
     width: 100%;
     padding: 22px;
-    height: auto;
+    height: 220px;
 }
 .signup{
     padding-right: 32px;
@@ -102,4 +102,44 @@ form {
     width: 650px;
     word-wrap: break-word;
     float: right
+}
+.footer {
+    color: #333;
+    display: block;
+    font-size: 13px;
+    font-weight: normal;
+    line-height: 18.2px;
+    margin: 0px, 0px, 0px, 0px;
+    padding: 0px, 0px, 0px, 0px;
+    text-align: center;
+    width: 650px;
+    height: 18px;
+    word-wrap: break-word;
+    margin-top: 16px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    position: fixed;
+    bottom:30%;
+    width: 100%;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color:#807272;
+    background-color: cornsilk;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+text-decoration-line: underline;
 }
