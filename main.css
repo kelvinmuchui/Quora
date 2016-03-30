@@ -88,3 +88,18 @@ a{
   color:#4b4bd6;
     background-color: white;
 }
+form {
+    bottom: auto;
+    height: auto;
+    left:300px;
+    margin-left: 64px;
+    margin-right: 64px;
+    margin-top: 60px;
+    overflow-y: hidden;
+    position: absolute;
+    right: 0px;
+    top: 66.1875px;
+    width: 650px;
+    word-wrap: break-word;
+    float: right
+}
